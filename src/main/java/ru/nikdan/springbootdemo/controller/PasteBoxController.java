@@ -23,4 +23,5 @@ public class PasteBoxController {
     public String add(@RequestBody PasteBoxRequest request) {
         return request.getData();
     }
+    //комментарий для новой ветки
 }
